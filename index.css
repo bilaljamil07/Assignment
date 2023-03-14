@@ -1,0 +1,139 @@
+#body {
+    background-color:  #1a1a1d ;
+}
+
+a {
+    color: white !important;
+}
+
+p {
+    color: grey;
+}
+
+#h2 {
+    color: white;
+}
+
+#h3 {
+    color: white;
+}
+
+#h4 {
+    color: white;
+}
+
+#image {
+    border-radius: 10%;
+}
+
+#intro {
+    font-size: 25px;
+}
+
+#bilalimage {
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px;
+}
+
+#bilalimg {
+    position: relative;
+    left: 50px;
+}
+
+#container2 {
+    position: relative;
+    top: 100px;
+    margin-top: 30px;
+    border: none;
+    z-index: +1;
+    background-color:  #1a1a1d
+    
+}
+
+.image {
+    border: 1px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #363543;
+}
+
+#information {
+    display: flex;
+    margin: 10px;
+}
+
+#projects {
+    margin-right: 5vw;
+}
+
+#contacts {
+    margin-right: 7vw;
+}
+
+#basicinfo {
+    margin-top: 40px;
+    
+}
+
+#experience {
+    padding-right: 40px;
+}
+
+#moreinfo {
+    padding-right: 100px;
+}
+ hr {
+    height: 5px;
+    background-color: antiquewhite;
+ }
+
+ #uiux {
+    margin-left: 200px;
+    margin-top: 30px;
+    color: white;
+ }
+
+ #uiimg {
+    margin-bottom: 20px;
+ }
+
+ #webimg {
+    margin-bottom: 20px;
+ }
+
+ #web {
+    margin-left: 200px;
+    margin-top: 30px;
+    color: white;
+ }
+
+ #appimg {
+    margin-bottom: 20px;
+ }
+
+ #app {
+    margin-left: 200px;
+    margin-top: 30px;
+    color: white;
+ }
+
+ .upper {
+    padding: 30px;
+    background-color: #363543;
+ }
+
+ #navbar {
+    background-color: #363543 !important;
+ }
+
+ .lower {
+    background-color:  #1a1a1d ;
+    margin-top: 150px;
+ }
+
+ #slack {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    
+ }
