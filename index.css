@@ -137,3 +137,29 @@ p {
     padding-bottom: 34px;
     
  }
+
+ .nav-item {
+    margin-left: 30px;
+ }
+
+ #nav1 {
+    margin-left: 100px;
+ }
+
+ #main-nav {
+    margin-left: 80px;
+ }
+
+ #twitter-logo {
+    margin-left: 800px;
+ }
+
+ #arrow-icon {
+    margin-left: 8px;
+ }
+
+ #showmore {
+    text-decoration: none;
+    color: yellow;
+ }
+
