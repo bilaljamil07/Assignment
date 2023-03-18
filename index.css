@@ -36,8 +36,11 @@ p {
 }
 
 #bilalimg {
-    position: relative;
-    left: 50px;
+    height: 400px;
+    width: 400px;
+    /* background-color: #1a1a1d ;
+    border-radius: 50%; */
+
 }
 
 #container2 {
@@ -48,14 +51,6 @@ p {
     z-index: +1;
     background-color:  #1a1a1d
     
-}
-
-.image {
-    border: 1px solid black;
-    text-align: center;
-    margin: 20px;
-    padding: 20px;
-    background-color: #363543;
 }
 
 #information {
